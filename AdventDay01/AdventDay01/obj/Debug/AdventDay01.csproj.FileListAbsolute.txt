@@ -1,0 +1,6 @@
+C:\Users\ocharvat\Desktop\advent2019\day01\AdventDay01\AdventDay01\bin\Debug\AdventDay01.exe.config
+C:\Users\ocharvat\Desktop\advent2019\day01\AdventDay01\AdventDay01\bin\Debug\AdventDay01.exe
+C:\Users\ocharvat\Desktop\advent2019\day01\AdventDay01\AdventDay01\bin\Debug\AdventDay01.pdb
+C:\Users\ocharvat\Desktop\advent2019\day01\AdventDay01\AdventDay01\obj\Debug\AdventDay01.csprojResolveAssemblyReference.cache
+C:\Users\ocharvat\Desktop\advent2019\day01\AdventDay01\AdventDay01\obj\Debug\AdventDay01.exe
+C:\Users\ocharvat\Desktop\advent2019\day01\AdventDay01\AdventDay01\obj\Debug\AdventDay01.pdb
